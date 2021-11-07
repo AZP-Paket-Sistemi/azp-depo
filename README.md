@@ -1,2 +1,2 @@
 # azp-depo
-AZP Program Deposu saytı
+AZP Program Deposu
