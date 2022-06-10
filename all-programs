@@ -22,6 +22,7 @@ deepin-theme
 gir1.2-webkit2
 giw
 gtk-keyboard
+gcc-10-base
 
 # h
 
@@ -33,6 +34,16 @@ icecat
 # k
 
 # l
+libc6
+libcrypt1
+libff7
+libgccjit0
+libgccjit-10-dev
+libgcc-s1
+libglib2.0-0
+libice6
+libmount1
+libpcre2
 
 # m
 
