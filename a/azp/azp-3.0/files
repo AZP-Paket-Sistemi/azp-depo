@@ -1,0 +1,11 @@
+/etc/azp-version
+/usr/bin/azp
+/usr/bin/azp-about.py
+/usr/bin/azp-depends
+/usr/share/applications/azp-about.desktop
+/usr/share/azp
+/usr/share/locale/az/LC_MESSAGES/azp.mo
+/usr/share/locale/az/LC_MESSAGES/azp-about.mo
+/usr/share/locale/tr/LC_MESSAGES/azp.mo
+/usr/share/locale/tr/LC_MESSAGES/azp-about.mo
+/usr/share/pixmaps/azp-200x200.png
