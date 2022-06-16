@@ -1,7 +1,11 @@
+libacl1
+libattr1
 libbsd0
 libbz2-1.0
 libc6
+libcom-err2
 libcrypt1
+libext2fs2
 libff7
 libgccjit0
 libgccjit-10-dev
