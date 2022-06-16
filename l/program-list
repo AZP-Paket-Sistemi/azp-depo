@@ -15,6 +15,7 @@ libpcre3
 libselinux1
 libsm6
 libstartup-notification0
+libstdc++6
 libx11-6
 libx11-data
 libxau6
