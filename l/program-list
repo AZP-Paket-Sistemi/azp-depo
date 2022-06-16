@@ -9,6 +9,7 @@ libgcc-s1
 libglib2.0-0
 libice6
 libmount1
+libodb-dev
 libpcre2
 libpcre3
 libselinux1
