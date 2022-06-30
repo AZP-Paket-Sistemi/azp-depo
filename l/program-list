@@ -1,8 +1,11 @@
 libacl1
 libattr1
+libaudit1
+libaudit-common
 libbsd0
 libbz2-1.0
 libc6
+libcap-ng0
 libcom-err2
 libcrypt1
 libext2fs2
