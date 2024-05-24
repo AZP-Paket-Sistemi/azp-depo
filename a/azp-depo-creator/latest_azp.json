@@ -1,6 +1,6 @@
 [
 {
-  "x86_64": {
+  "all": {
     "azp": "azp-depo-creator_1.0.azp",
     "azpsrc": ""
   }
