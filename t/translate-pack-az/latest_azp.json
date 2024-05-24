@@ -1,6 +1,6 @@
 [
 {
-  "x86_64": {
+  "all": {
     "azp": "translate-pack-az_2.5-4.azp",
     "azpsrc": ""
   }

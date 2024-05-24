@@ -1,6 +1,6 @@
 [
 {
-  "x86_64": {
+  "all": {
     "azp": "turan-session-logout_1.0.azp",
     "azpsrc": ""
   }

@@ -1,7 +1,7 @@
 [
 {
-  "x86_64": {
-    "azp": "breeze-cursor-theme-4.5.20.5-4.azp",
+  "all": {
+    "azp": "breeze-cursor-theme_4:5.20.5-4.azp",
     "azpsrc": ""
   }
 }

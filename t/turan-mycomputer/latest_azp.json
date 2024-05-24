@@ -1,6 +1,6 @@
 [
 {
-  "x86_64": {
+  "all": {
     "azp": "turan-mycomputer_1.5-1.azp",
     "azpsrc": ""
   }

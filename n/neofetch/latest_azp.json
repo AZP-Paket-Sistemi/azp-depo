@@ -1,6 +1,6 @@
 [
 {
-  "x86_64": {
+  "all": {
     "azp": "neofetch_7.1.0-3-3.azp",
     "azpsrc": ""
   }

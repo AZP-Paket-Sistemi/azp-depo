@@ -1,6 +1,6 @@
 [
 {
-  "x86_64": {
+  "all": {
     "azp": "giw-0.3.0~Beta3.azp",
     "azpsrc": ""
   }

@@ -1,6 +1,6 @@
 [
 {
-  "x86_64": {
+  "all": {
     "azp": "materia-compact_20200916-0.2.azp",
     "azpsrc": ""
   }

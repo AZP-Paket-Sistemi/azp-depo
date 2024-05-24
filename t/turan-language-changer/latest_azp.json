@@ -1,6 +1,6 @@
 [
 {
-  "x86_64": {
+  "all": {
     "azp": "turan-language-changer_1.5.azp",
     "azpsrc": ""
   }

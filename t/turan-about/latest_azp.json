@@ -1,6 +1,6 @@
 [
 {
-  "x86_64": {
+  "all": {
     "azp": "turan-about_2.0.azp",
     "azpsrc": ""
   }
